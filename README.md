@@ -56,3 +56,6 @@ AI-Powered Resume Analyzer and Job Scraper
 ---
 
 Always learning, building, and improving
+## GitHub Stats
+
+![Ashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikajainn2025-web&show_icons=true)
